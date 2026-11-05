@@ -1,6 +1,6 @@
 cask "bestcast@beta" do
-  version "0.0.0-beta.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.11.12-beta.4"
+  sha256 "2c01258c65abc2dcde7be78732300e1ef2aa79f1e134c24d4c8a618dc567fb8b"
 
   url "https://github.com/pcstyle-os/bestcast/releases/download/v#{version}/Bestcast-#{version}.dmg"
   name "Bestcast Beta"
