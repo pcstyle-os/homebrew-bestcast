@@ -1,6 +1,6 @@
 cask "bestcast-universal" do
-  version "0.11.11"
-  sha256 "d490e2552e8486fad42d8991077a3b5a2927d061223f5fa3632374db0962296c"
+  version "0.12.0"
+  sha256 "e32426116ddced470cf6e9d6acc4279dd1399782744c4b9764bd503984fbf4ef"
 
   url "https://github.com/pcstyle-os/bestcast/releases/download/v#{version}/Bestcast-Universal-#{version}.dmg"
   name "Bestcast"
